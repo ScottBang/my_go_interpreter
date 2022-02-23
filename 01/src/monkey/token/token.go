@@ -28,9 +28,9 @@ const (
 	COMMA     = ","
 	SEMICOLON = ";"
 
-	LPAREN = "("
+	LPAREN = "(" // left Parentheses
 	RPAREN = ")"
-	LBRACE = "{"
+	LBRACE = "{" // left Brace
 	RBRACE = "}"
 
 	// Keywords
