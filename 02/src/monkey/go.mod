@@ -1,3 +1,3 @@
-module monkey01
+module monkey02
 
 go 1.17

@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"monkey01/token"
+	"monkey02/token"
 )
 
 type dbg_token struct {
